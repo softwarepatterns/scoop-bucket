@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/softwarepatterns/homebrew-tap/releases/download/forgejo/v0.3.0/forgejo-0.3.0-x86_64-pc-windows-msvc.msi",
             "hash": "sha256:89517a65e5b591ac0c0c61c568d8bd3b8c92c69522c5f09329d327ef2794aa36",
-            "extract_dir": "SourceDir\\PFiles\\forgejo",
+            "extract_dir": "PFiles\\\\forgejo",
             "bin": "bin\\forgejo.exe"
         }
     }
