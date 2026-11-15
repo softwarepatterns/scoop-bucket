@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Agent-first client for the Forgejo HTTP API",
     "homepage": "https://forgejo.softwarepatterns.com",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/softwarepatterns/homebrew-tap/releases/download/forgejo/v0.2.0/forgejo-0.2.0-x86_64-pc-windows-msvc.msi",
-            "hash": "sha256:8fbba5b4f7f4f441c0f00b42d8d6b5f2da2cd40ed2733efe379ee5d3dd3f1bdb",
+            "url": "https://github.com/softwarepatterns/homebrew-tap/releases/download/forgejo/v0.3.0/forgejo-0.3.0-x86_64-pc-windows-msvc.msi",
+            "hash": "sha256:89517a65e5b591ac0c0c61c568d8bd3b8c92c69522c5f09329d327ef2794aa36",
             "extract_dir": "SourceDir\\PFiles\\forgejo",
             "bin": "bin\\forgejo.exe"
         }
